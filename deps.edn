@@ -1,0 +1,3 @@
+{:deps {}
+ :aliases {:repl {:extra-deps {github-peterwestmacott/see {:git/url "git@github.com:peterwestmacott/see.git"
+                                                           :sha "d91274e47f6b0e4bd2581619ecb4e0b4153a0bf5"}}}}}
